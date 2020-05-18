@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">test-standalone-sdk</string>
+    <string name="zoom_sdk_test">ZOOM SDK TEST</string>
+    <string name="enter_meeting_number">enter meeting number</string>
+    <string name="join_meeting_on_app">Join Meeting</string>
+</resources>
